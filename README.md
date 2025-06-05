@@ -24,11 +24,9 @@ It was conducted using a blend of data analytics and visualization tools to extr
 ```
 
 Support-Programs-Impact-Report/
-├── data/               # Raw and processed survey data
-├── notebooks/          # Jupyter notebooks for analysis
-├── visuals/            # Plots, graphs, and visuals used in the report
-├── report.pdf          # Final report document
-└── README.md
+├── Impact Report.ipynb         # Jupyter Notebook with analysis and visualizations
+├── Report - Dorra Ben Abdallah.pdf  # Final report document (PDF)
+└── README.md                   # Project documentation
 
 ```
 
